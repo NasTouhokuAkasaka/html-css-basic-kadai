@@ -1,0 +1,31 @@
+body {
+  font-family: "Arial", "Hiragino Kaku Gothic ProN", sans-serif;
+  text-align: center;
+}
+
+.google-fonts {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+html { 
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 2px rgba(50, 50, 50, 0.5);
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.font_m {
+  color: skyblue;
+}
+
+.font_p {
+  color: rgb(255,192,203);
+}
+
+#parent p {
+  font-weight: bold;
+}
